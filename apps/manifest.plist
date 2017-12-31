@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>assets</key>
+			<array>
+				<dict>
+					<key>kind</key>
+					<string>software-package</string>
+					<key>url</key>
+					<string>https://enelia.ddns.net/apps/enelia-dashboard-v0.0.1.ipa</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>display-image</string>
+					<key>url</key>
+					<string>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFvozxWdqK9aHi3iPEcN6C4KOWoGwReQ1OtcOHtkvzCAXaA-9BhQ</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>full-size-image</string>
+					<key>url</key>
+					<string>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqzu-DwhNRMa6QjoSLvt5HT5UfudNG7i2x_p4j1iby3Z5QSBoP</string>
+				</dict>
+			</array>
+			<key>metadata</key>
+			<dict>
+				<key>bundle-identifier</key>
+				<string>fr.groupe-enelia.dashboard</string>
+				<key>bundle-version</key>
+				<string>0.0.1</string>
+				<key>kind</key>
+				<string>software</string>
+				<key>title</key>
+				<string>Enelia - Tableau de bord</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
